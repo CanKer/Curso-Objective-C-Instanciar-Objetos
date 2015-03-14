@@ -11,7 +11,7 @@
 @interface Poly : NSObject  {
     int lados;
     float longitud;
-    float perimetro;
+
 }
 
 -(void)print;
